@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix استبيان تطوير Collection Persona Framework™️ (CPF™️)",
+  "description": "تطبيق استبيان مهني تفاعلي مخصص للجوال حول تطوير إطار تصنيف أنماط العملاء المتعثرين (CPF™️) لموظفي البنك الأهلي السعودي (SNB) مع لوحة تحكم إدارية متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
